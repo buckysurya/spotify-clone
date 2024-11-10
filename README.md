@@ -1,6 +1,5 @@
-Here's a README template you can use for your Spotify clone project:
-
 Spotify Clone 🎶
+
 A Spotify-like web app built with React and Tailwind CSS for learning and demonstration purposes.
 
 Features 📌
